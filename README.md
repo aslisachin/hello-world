@@ -6,3 +6,4 @@ Hello World in Almost Every Programming Language.
 - Python ✅
 - PHP ✅
 - HTML ✅
+- GO ✅
