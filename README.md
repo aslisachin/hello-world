@@ -7,3 +7,5 @@ Hello World in Almost Every Programming Language.
 - PHP ✅
 - HTML ✅
 - GO ✅
+- JAVA ✅
+- Kotlin ✅
