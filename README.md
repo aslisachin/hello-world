@@ -9,3 +9,5 @@ Hello World in Almost Every Programming Language.
 - GO ✅
 - JAVA ✅
 - Kotlin ✅
+- C# ✅
+- C ✅
