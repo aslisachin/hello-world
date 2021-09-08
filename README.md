@@ -13,3 +13,4 @@ Hello World in Almost Every Programming Language.
 - C ✅
 - Swift ✅
 - Ruby ✅
+- Rust ✅
