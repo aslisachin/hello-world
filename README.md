@@ -11,3 +11,5 @@ Hello World in Almost Every Programming Language.
 - Kotlin ✅
 - C# ✅
 - C ✅
+- Swift ✅
+- Ruby ✅
